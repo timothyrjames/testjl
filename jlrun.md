@@ -1,7 +1,7 @@
 # Install JupyterLab
 
 ```bash
-sudo sh install.sh
+sh install.sh
 ```
 
 When that's done, click the link.
